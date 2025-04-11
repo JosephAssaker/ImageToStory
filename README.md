@@ -4,6 +4,19 @@ Transform static images into engaging animated stories with AI-powered narration
 
 ![Project Banner](assets/i2s-banner.gif)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</p>
+
+<!-- <p align="center">
+  <a href="https://github.com/JosephAssaker/ImageToStory/stargazers"><img src="https://img.shields.io/github/stars/JosephAssaker/ImageToStory?style=social" alt="Stars"></a>
+  <a href="https://github.com/JosephAssaker/ImageToStory/fork"><img src="https://img.shields.io/github/forks/JosephAssaker/ImageToStory?style=social" alt="Forks"></a>
+  <a href="https://github.com/JosephAssaker/ImageToStory/issues"><img src="https://img.shields.io/github/issues/JosephAssaker/ImageToStory" alt="Issues"></a>
+  <img src="https://img.shields.io/github/last-commit/JosephAssaker/ImageToStory" alt="Last Commit"/>
+</p> -->
+
 ## 🎯 Overview
 
 ImageToStory is a Google Colab-based project that transforms static images into dynamic video stories by:
