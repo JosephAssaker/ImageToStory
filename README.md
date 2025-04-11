@@ -2,7 +2,9 @@
 
 Transform static images into engaging animated stories with AI-powered narration and visual effects.
 
-![Project Banner](assets/i2s-banner.gif)
+<p align="center">
+  <img src="assets/i2s-banner.gif">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -63,8 +65,9 @@ Several parameters are exposed by the `image_to_story` function to allow customi
 
 ## 🎥 Examples
 
-![Example 1](assets/walking_dog.mp4)
-![Example 2](assets/woman_volleyball.mp4)
+https://github.com/user-attachments/assets/63cc0d0d-563b-4a59-b6ed-e31f7102e1ec
+
+https://github.com/user-attachments/assets/bc0dbd6d-666c-409b-8a6d-cfcd858ed3a4
 
 ## 🚀 Next Steps
 
